@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Computer {
-}
+privat staic  class Computer {
+
+    }
+
